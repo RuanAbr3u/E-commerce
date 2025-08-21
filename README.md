@@ -47,3 +47,6 @@ O modelo conceitual atende aos requisitos do desafio:
 - Entrega com status e código de rastreamento.  
 
 Este esquema fornece uma base sólida para a implementação futura do banco de dados de um sistema de e-commerce.
+
+## 🖼️ Diagrama  
+![Diagrama da Oficina](E%20commerce.png) 
