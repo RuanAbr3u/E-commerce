@@ -50,3 +50,4 @@ Este esquema fornece uma base sólida para a implementação futura do banco de 
 
 ## 🖼️ Diagrama  
 ![Diagrama da Oficina](E%20commerce.png) 
+
